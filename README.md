@@ -35,6 +35,7 @@ Based on the official Docker images from Elastic:
 5. [Going further](#going-further)
    * [Plugins and integrations](#plugins-and-integrations)
    * [Swarm mode](#swarm-mode)
+6. [Note](#note)
 
 ## Requirements
 
