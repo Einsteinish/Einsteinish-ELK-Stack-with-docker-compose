@@ -2,6 +2,8 @@
 
 Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker Compose.
 
+Additional information is available from [Docker - ELK 7.6 : Elastic Stack with Docker Compose](https://www.bogotobogo.com/DevOps/Docker/Docker_ELK_7_6_Elastic_Stack_Docker_Compose.php) 
+
 It gives us the ability to analyze any data set by using the searching/aggregation capabilities of Elasticsearch and
 the visualization power of Kibana.
 
